@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap'); /*폰트*/
 
-.pw-texting{
+.texting{
     font-family: 'Do Hyeon';
     display: flex;
     align-items: flex-start;
@@ -9,7 +9,8 @@
     margin-top: 250px;
 }
 
-.pw-texting p{
+.texting p{
     font-family: 'Do Hyeon';
     text-align:center;
+    font-size:150px;
 }
